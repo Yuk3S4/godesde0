@@ -26,7 +26,7 @@ func main() {
 	// 	fmt.Printf("%s \n", os)
 	// }
 
-	num, res := ejercicios.ConvNumerico("80")
-	fmt.Printf("%v ", num)
-	fmt.Printf("%v \n", res)
+	num, res := ejercicios.ConvNumerico("60")
+	fmt.Print(num)
+	fmt.Print(" ", res)
 }
