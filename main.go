@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/Yuk3S4/godesde0/ejercicios"
 )
 
@@ -26,7 +24,14 @@ func main() {
 	// 	fmt.Printf("%s \n", os)
 	// }
 
-	num, res := ejercicios.ConvNumerico("60")
-	fmt.Print(num)
-	fmt.Print(" ", res)
+	// num, res := ejercicios.ConvNumerico("60")
+	// fmt.Print(num)
+	// fmt.Print(" ", res)
+
+	// teclado.IngresoNumeros()
+
+	// iteraciones.Iterar()
+
+	ejercicios.TablaDeMultiplicar()
+
 }
