@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/Yuk3S4/godesde0/files"
-)
+import "github.com/Yuk3S4/godesde0/mapas"
 
 func main() {
 	// estado, texto := variables.ConviertoaTexto(1588)
@@ -36,7 +34,16 @@ func main() {
 
 	// files.GrabaTabla()
 	// files.SumaTabla()
+	// files.LeoArchivo()
 
-	files.LeoArchivo()
+	// funciones.Calculos()
+	// funciones.LlamarClosure()
+	// funciones.Exponencia(2)
+
+	// arrays_slices.MuestroArreglos()
+	// arrays_slices.MuestroSlices()
+	// arrays_slices.Capacidad()
+
+	mapas.MostrarMapas()
 
 }
