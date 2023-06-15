@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Yuk3S4/godesde0/ejercicios"
+	"github.com/Yuk3S4/godesde0/files"
 )
 
 func main() {
@@ -32,6 +32,11 @@ func main() {
 
 	// iteraciones.Iterar()
 
-	ejercicios.TablaDeMultiplicar()
+	// fmt.Println(ejercicios.TablaDeMultiplicar())
+
+	// files.GrabaTabla()
+	// files.SumaTabla()
+
+	files.LeoArchivo()
 
 }
