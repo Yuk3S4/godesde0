@@ -1,7 +1,5 @@
 package main
 
-import "github.com/Yuk3S4/godesde0/mapas"
-
 func main() {
 	// estado, texto := variables.ConviertoaTexto(1588)
 	// fmt.Println(estado)
@@ -44,6 +42,14 @@ func main() {
 	// arrays_slices.MuestroSlices()
 	// arrays_slices.Capacidad()
 
-	mapas.MostrarMapas()
+	// mapas.MostrarMapas()
+
+	// users.AltaUsuario()
+
+	// Daniel := new(models.Hombre)
+	// e.HumanosRespirando(Daniel)
+
+	// Maria := new(models.Mujer)
+	// e.HumanosRespirando(Maria)
 
 }
